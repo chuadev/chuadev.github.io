@@ -1,2 +1,0 @@
-# chuadev.github.io
-thisismywebsiteyay
